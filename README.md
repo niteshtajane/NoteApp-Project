@@ -1,4 +1,3 @@
-# Simple Notes App
-This is a simple notes app built with React and Django.
+# Hosting a Notes App on Ubuntu with Nginx and Docker
 
-Medium Document to follow all the steps
+https://medium.com/@iamnitesh/nginx-webapp-1cc581b4d066
